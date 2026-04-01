@@ -1,6 +1,7 @@
 name: Test Workflow
 
 
+
 on:
   push:
 
@@ -10,4 +11,4 @@ jobs:
 
     steps:
       - name: Wait Step
-        run: sleep 180
+        run: sleep 60
