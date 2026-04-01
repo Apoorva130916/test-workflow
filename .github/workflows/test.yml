@@ -9,4 +9,4 @@ jobs:
 
     steps:
       - name: Wait Step
-        run: sleep 60
+        run: sleep 180
